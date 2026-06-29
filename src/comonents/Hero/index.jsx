@@ -16,7 +16,7 @@ const Hero = () => {
             ЕДА ЖДЕТ <br />
             ТЕБЯ!
           </h1>
-          <button className="mt-10 bg-black text-white px-8 py-4 rounded-xl flex items-center gap-3 hover:bg-gray-800 duration-300">
+          <button className="mt-10 bg-black text-white px-8 py-4 rounded-xl flex items-center gap-3 hover:bg-amber-600 duration-300">
             Посмотреть меню
             <span>➜</span>
           </button>
@@ -29,7 +29,7 @@ const Hero = () => {
             <img src={hero4}  alt="" className="absolute right-0 bottom-32 w-24 z-30 animate-float"/>
         </div>
       </div>
-          </section>
+    </section>
   );
 }
 

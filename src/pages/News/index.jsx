@@ -1,6 +1,5 @@
 import React from "react";
 import Header from "../../comonents/header";
-import body from "../../assets/image/body.png";
 import news1 from "../../assets/image/news_1.png"
 import news2 from "../../assets/image/news_2.png"
 import news3 from "../../assets/image/news_3.png"
